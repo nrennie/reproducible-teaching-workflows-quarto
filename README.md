@@ -1,1 +1,3 @@
-# reproducible-teaching-workflows-quarto
+# Reproducible teaching workflows with Quarto
+
+Work in progress.
